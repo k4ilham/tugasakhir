@@ -2,16 +2,16 @@
 Eudeka OSG4 - TUGAS AKHIR
 
 # Page Home
-<img src="http://kailham.com/android/eudeka/A.png">
+<img src="http://kailham.com/android/eudeka/A.jpg">
 
 # Page Detail
-<img src="http://kailham.com/android/eudeka/B.png">
+<img src="http://kailham.com/android/eudeka/B.jpg">
 
 # Page Image Detail
-<img src="http://kailham.com/android/eudeka/C.png">
+<img src="http://kailham.com/android/eudeka/C.jpg">
 
 # Notifikasi
-<img src="http://kailham.com/android/eudeka/D.png">
+<img src="http://kailham.com/android/eudeka/D.jpg">
 
 
 # mod_card.dart
